@@ -1,6 +1,4 @@
-# hidayatullah.io
-
-<h1>That's my CV Website.</h1>
+<h1>Ade Ihsan Hidayatullah.</h1>
 <br>
 Now it's on the stage of production.
 <br>
@@ -11,5 +9,5 @@ Made with:
 <li> Transitions</li>
 <li> CSS variables</li>
   </ul>
-
-Want to view the site? Here is the <a href="https://adeihsanhidayatullah.github.io/hidayatullah.io/">link</a>.
+Template Source : <a href="https://github.com/Andrevwv/cv.io">Andrevwv</a>.
+Want to view the site? Here is the <a href="https://adeihsanhidayatullah.github.io/">link</a>.
